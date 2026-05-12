@@ -27,8 +27,7 @@ public class StudList {
          {
              System.out.println(st[i].toString());
          }
-        System.out.print("hello World");
-         
+       
     }
 
 }
